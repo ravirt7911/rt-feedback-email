@@ -1,0 +1,25 @@
+{
+  "name": "rt-feedback-email",
+  "version": "1.0.0",
+  "description": "An npm package that can be used to take feedbacks from your website and directly get it on your mail",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravirt7911/rt-feedback-email.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Kamsu Ravi Teeja",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ravirt7911/rt-feedback-email/issues"
+  },
+  "homepage": "https://github.com/ravirt7911/rt-feedback-email#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
